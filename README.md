@@ -17,6 +17,19 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 ---
 
+## 📸 Screenshot Aplikasi
+
+Tampilan antarmuka Sistem Manajemen Perpustakaan:
+
+| Screenshot | Screenshot |
+|-----------|------------|
+| <img src="img/Cuplikan layar 2025-12-11 215658.png" width="400"> | <img src="img/Cuplikan layar 2025-12-11 215711.png" width="400"> |
+| <img src="img/Cuplikan layar 2025-12-11 215720.png" width="400"> | <img src="img/Cuplikan layar 2025-12-11 215728.png" width="400"> |
+| <img src="img/Cuplikan layar 2025-12-11 215735.png" width="400"> | <img src="img/Cuplikan layar 2025-12-11 215743.png" width="400"> |
+| <img src="img/Cuplikan layar 2025-12-11 215750.png" width="400"> | <img src="img/Cuplikan layar 2025-12-11 215756.png" width="400"> |
+
+
+
 ## 🛠️ Teknologi yang Digunakan
 
 * **Python 3.x**
